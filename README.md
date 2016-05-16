@@ -1,3 +1,2 @@
-# ligaNostra
-
-a [Sails](http://sailsjs.org) application
+# liganostra
+A fantasy football app for the Romanian first football league
